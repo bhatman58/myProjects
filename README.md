@@ -9,12 +9,12 @@ you can search your text and it will search for related movies / Tv Shows
 
 
 > **Technologies Used In This Project**
-Getx
-GetX Dependency Injection
-GetX Routing
-MVVM Architecture 
-TMDB API Package
-Testing
+Getx ,
+GetX Dependency Injection ,
+GetX Routing ,
+MVVM Architecture ,
+TMDB API Package ,
+Testing ,
 
 The Other Two Projects , **3 Whistle** and **File Store** are old projects {like 2 - 3 yrs ago} and they use simple "setState" State Management and no architecture since they were simple quick freelance projects
 
@@ -31,26 +31,26 @@ you can navigate through pages and see the content of the website , right on you
 
 not to forget that this app has **built-in Video / Audio Player** and **PDF reader.**
 
-> Technologies I've Worked With
-Fluent On Flutter & Dart
-GetX State Management
-GetX Dependency Injection
-GetX Routing
-Get CLI
-~Mobx State Management
-~Provider State Management
-~Git
-Widget / Unit / Integration Testing
-Rest API & JSON
-MVVM
-MVC
-OOP
-Error Handling
-FireBase
-FireStore
-DB Integration {i.e : Hive}
-Build Runner
-Learning Bloc State Management
+> Technologies I've Worked With :
+Fluent On Flutter & Dart ,
+GetX State Management ,
+GetX Dependency Injection ,
+GetX Routing ,
+Get CLI ,
+~Mobx State Management ,
+~Provider State Management ,
+~Git ,
+Widget / Unit / Integration Testing ,
+Rest API & JSON ,
+MVVM ,
+MVC ,
+OOP ,
+Error Handling ,
+FireBase ,
+FireStore ,
+DB Integration {i.e : Hive} ,
+Build Runner ,
+Learning Bloc State Management ,
 and ...
 
 
