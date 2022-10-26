@@ -18,6 +18,8 @@ Testing ,
 
 The Other Two Projects , **3 Whistle** and **File Store** are old projects {like 2 - 3 yrs ago} and they use simple "setState" State Management and no architecture since they were simple quick freelance projects
 
+Unfortunately i've lost access to **Chillito** and **Wearina** source codes since last year my hard drive got damaged and could never repair it. 
+
 **File Store App** , is a wordpress client app that connects to a WP website of your choice,  using WP-API-Key and it can fetch all the articles and data published on that website
 
 this app is most suitable for those who have paid content on their website and they want their content to be used only using this app and by the one who has paid for it , not anyone else and not anywhere else , 
