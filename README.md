@@ -49,25 +49,25 @@ not to forget that this app has **built-in Video / Audio Player** and **PDF read
 
 
 > Technologies I've Worked With
-Fluent On Flutter & Dart
-GetX State Management
-GetX Dependency Injection
-GetX Routing
-Get CLI
-~Mobx State Management
-~Provider State Management
-~Git
-Widget / Unit / Integration Testing
-Rest API & JSON
-MVVM
-MVC
-OOP
-Error Handling
-FireBase
-FireStore
-DB Integration {i.e : Hive}
-Build Runner
-Learning Bloc State Management
+Fluent On Flutter & Dart ,
+GetX State Management ,
+GetX Dependency Injection ,
+GetX Routing ,
+Get CLI ,
+~Mobx State Management ,
+~Provider State Management ,
+~Git ,
+Widget / Unit / Integration Testing ,
+Rest API & JSON ,
+MVVM ,
+MVC ,
+OOP ,
+Error Handling ,
+FireBase ,
+FireStore ,
+DB Integration {i.e : Hive} ,
+Build Runner ,
+Learning Bloc State Management ,
 and ...
 
 
