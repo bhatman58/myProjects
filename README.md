@@ -8,12 +8,12 @@ you can search your text and it will search for related movies / Tv Shows
 
 
 > **Technologies Used In This Project**
-Getx
-GetX Dependency Injection
-GetX Routing
-MVVM Architecture 
-TMDB API Package
-Testing
+Getx ,
+GetX Dependency Injection ,
+GetX Routing ,
+MVVM Architecture  ,
+TMDB API Package ,
+Testing 
 
 
 
