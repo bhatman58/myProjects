@@ -20,7 +20,8 @@ Testing
 
 
 Movie App
-![Alt text](https://photos.app.goo.gl/4HHYYURJZGUSu7D28)
+#![Alt text](https://photos.app.goo.gl/4HHYYURJZGUSu7D28)
+App screenshot link : https://photos.app.goo.gl/4HHYYURJZGUSu7D28 
 
 The Other Two Projects , **3 Whistle** and **File Store** are old projects {like 2 - 3 yrs ago} and they use simple "setState" State Management and no architecture since they were simple quick freelance projects
 
