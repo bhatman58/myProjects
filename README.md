@@ -17,10 +17,7 @@ Testing
 
 
 
-
-
-Movie App
-App screenshot link : https://photos.app.goo.gl/4HHYYURJZGUSu7D28 
+Movie App's screenshot link : https://photos.app.goo.gl/4HHYYURJZGUSu7D28 
 
 The Other Two Projects , **3 Whistle** and **File Store** are old projects {like 2 - 3 yrs ago} and they use simple "setState" State Management and no architecture since they were simple quick freelance projects
 
@@ -41,8 +38,7 @@ not to forget that this app has **built-in Video / Audio Player** and **PDF read
 
 
 
-3 Whistle App
-App screenshot link : https://photos.app.goo.gl/XuJF9JZDjLR3S6xk7
+3 Whistle App's screenshot link : https://photos.app.goo.gl/XuJF9JZDjLR3S6xk7
 
 
 
@@ -73,14 +69,8 @@ and ...
 
 
 
-Chillito App
-
-App screenshot link : https://photos.app.goo.gl/NeSB7hptYeJpmoij9
+Chillito App's screenshot link : https://photos.app.goo.gl/NeSB7hptYeJpmoij9
 
 
 
-
-
-Wearina App
-
-App screenshot link : https://photos.app.goo.gl/RzswjtQFGu9ttXzj9
+Wearina App's screenshot link : https://photos.app.goo.gl/RzswjtQFGu9ttXzj9
